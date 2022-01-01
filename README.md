@@ -1,4 +1,4 @@
-#### [🔗 Discord Link](https://discord.gg/partner) - [📖 Terms](https://github.com/raiderjs/PirateStealer#terms) - [🔨 Builder](https://github.com/raiderjs/PirateStealer/releases/Builder) - [💎 Premium](https://discord.gg/partner) - [💡 Features](https://github.com/raiderjs/PirateStealer#features)
+#### [🔗 Discord Link](https://discord.gg/leaks) - [📖 Terms](https://github.com/raiderjs/PirateStealer#terms) - [🔨 Builder](https://github.com/raiderjs/PirateStealer/releases/Builder) - [💎 Premium](https://discord.gg/partner) - [💡 Features](https://github.com/raiderjs/PirateStealer#features)
 # PirateStealer
 Official PirateStealer repos
 
